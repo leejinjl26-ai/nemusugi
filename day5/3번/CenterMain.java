@@ -13,3 +13,5 @@ public class CenterMain {
 	}
 
 }
+
+//최짱 스고이~~!! 얏타네~~~!!! 
